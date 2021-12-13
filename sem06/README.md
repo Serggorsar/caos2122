@@ -3,9 +3,13 @@
 ## Ссылки с лекции
 
 http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/lectures/04-float.pdf
+
 https://stackoverflow.com/a/3974138
+
 https://stackoverflow.com/questions/21557816/whats-the-c-suffix-for-long-double-literals
+
 https://stackoverflow.com/questions/32315569/how-can-i-print-multiple-character-with-one-printf
+
 https://en.cppreference.com/w/cpp/language/definition
 
 
