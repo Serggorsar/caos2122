@@ -1,0 +1,1 @@
+https://metanit.com/cpp/c/6.7.php
